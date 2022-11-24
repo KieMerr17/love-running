@@ -19,12 +19,12 @@ h1, h2 {
     text-transform: uppercase;
     letter-spacing: 4px;
     color: #252525;
-    margin-left: 30px;
 }
 
 #logo {
     float: left;
     font-size: 280%;
+    margin-left: 30px;
 }
 
 /* Navigation links */
